@@ -19,7 +19,7 @@ export default function Edit() {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    let a = Employees.find(e => e.id === localStorage.getItem("Id"));
+    let a = Employees.find(e => e.id == localStorage.getItem("Id"));
 
     a.id = id;
     a.name = name;
