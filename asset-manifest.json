@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CRUD-Validation/static/css/main.f3abe590.css",
-    "main.js": "/CRUD-Validation/static/js/main.0bc68b3a.js",
+    "main.js": "/CRUD-Validation/static/js/main.67a96f57.js",
     "index.html": "/CRUD-Validation/index.html",
     "main.f3abe590.css.map": "/CRUD-Validation/static/css/main.f3abe590.css.map",
-    "main.0bc68b3a.js.map": "/CRUD-Validation/static/js/main.0bc68b3a.js.map"
+    "main.67a96f57.js.map": "/CRUD-Validation/static/js/main.67a96f57.js.map"
   },
   "entrypoints": [
     "static/css/main.f3abe590.css",
-    "static/js/main.0bc68b3a.js"
+    "static/js/main.67a96f57.js"
   ]
 }
